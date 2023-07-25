@@ -4,6 +4,7 @@ Uses `Django` in the backend with `SQLite` and `React.JS` in the frontend with `
 
 ## Install dependencies
 Follow the steps below to install all the dependencies, the frameworks, package managers and the environments:
-  #### 1. The Backend dependencies
+  #### 1. The environment
     You will need to install python package manager.
-  #### 2. The environment
+  #### 2. The Backend dependencies
+    Install the dep
